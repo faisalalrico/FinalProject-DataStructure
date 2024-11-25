@@ -1,0 +1,11 @@
+id,jenis_senjata,jenis_peluru,nama,harga,jumlah,total_harga,tahun,bulan,hari,detail_waktu
+2,shotgun,.12cal,Sawn-off - Double Barreled Shotgun,960000.0,1,960000.0,2024,06,20,06:19:56
+3,pistol,.19mm,Glock 17,200000.0,1,200000.0,2024,07,01,10:43:04
+3,throwable,,HE Flashbang,250000.0,2,500000.0,2024,07,01,15:50:33
+2,sniper_rifle,.308 Winchester,Remington 700,5000000.0,1,5000000.0,2024,07,01,15:50:33
+2,smg,.19mm,IMI Micro Uzi - Micro SMG,600000.0,3,1800000.0,2024,07,02,07:10:19
+2,smg,.19mm,IMI Micro Uzi - Micro SMG,600000.0,2,1200000.0,2024,07,03,06:19:56
+2,shotgun,.12cal,Sawn-off - Double Barreled Shotgun,960000.0,1,960000.0,2024,07,03,06:19:56
+2,smg,.19mm,IMI Micro Uzi - Micro SMG,600000.0,1,600000.0,2024,07,05,22:23:59
+2,shotgun,.12cal,Sawn-off - Double Barreled Shotgun,960000.0,4,3840000.0,2024,07,05,22:23:59
+2,assault_rifle,5.56x45mm,Colt Model 733 - M4,5400000.0,5,27000000.0,2024,07,05,22:23:59

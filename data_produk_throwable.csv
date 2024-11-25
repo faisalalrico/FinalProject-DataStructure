@@ -1,0 +1,4 @@
+id,jenis_throwable,nama,harga,stok,jenis
+1,DIY,Molotov,900000.0,100,throwable
+2,grenade,HE Grenade,1000000.0,119,throwable
+3,grenade,HE Flashbang,250000.0,98,throwable

@@ -1,0 +1,5 @@
+======================== Nota Pembelian ========================
+ID: 3, throwable, , HE Flashbang, Rp.250000.0, 2, Total Harga: Rp.500000.0, Waktu: 2024-07-01 15:50:33
+ID: 2, sniper_rifle, .308 Winchester, Remington 700, Rp.5000000.0, 1, Total Harga: Rp.5000000.0, Waktu: 2024-07-01 15:50:33
+===============================================================
+Total Harga Keseluruhan: Rp.5500000.0

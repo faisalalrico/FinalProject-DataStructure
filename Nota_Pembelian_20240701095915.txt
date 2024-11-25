@@ -1,0 +1,5 @@
+======================== Nota Pembelian ========================
+ID: 3, pistol, .19mm, Glock 17, Rp.200000.0, 2, Total Harga: Rp.400000.0, Waktu: 2024,07,01,09:59:15
+ID: 2, throwable, , HE Grenade, Rp.1000000.0, 1, Total Harga: Rp.1000000.0, Waktu: 2024,07,01,09:59:15
+===============================================================
+Total Harga Keseluruhan: Rp.1400000.0

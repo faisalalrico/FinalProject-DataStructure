@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Page-1" id="Hdb7uJluwgOYFXMTVzbw">
+    <mxGraphModel dx="1194" dy="215" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AeF4XJw-02jc3NNdcprh-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="AeF4XJw-02jc3NNdcprh-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-292" y="506" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AeF4XJw-02jc3NNdcprh-11" value="Ambil Uang" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="556" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AeF4XJw-02jc3NNdcprh-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="AeF4XJw-02jc3NNdcprh-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-195" y="504" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AeF4XJw-02jc3NNdcprh-15" value="Cek Saldo" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-222" y="556" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AeF4XJw-02jc3NNdcprh-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="AeF4XJw-02jc3NNdcprh-11" target="AeF4XJw-02jc3NNdcprh-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-299" y="668" as="sourcePoint" />
+            <mxPoint x="-249" y="618" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AeF4XJw-02jc3NNdcprh-18" value="Sistem ATM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AeF4XJw-02jc3NNdcprh-19" value="Nasabah" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="791" width="92" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AeF4XJw-02jc3NNdcprh-20" value="Transfer Ke Rekening di Bank Sama" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-213" y="791" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AeF4XJw-02jc3NNdcprh-22" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="AeF4XJw-02jc3NNdcprh-23" target="AeF4XJw-02jc3NNdcprh-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-299" y="668" as="sourcePoint" />
+            <mxPoint x="-249" y="618" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AeF4XJw-02jc3NNdcprh-23" value="Transfer Uang" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-318" y="694" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AeF4XJw-02jc3NNdcprh-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="AeF4XJw-02jc3NNdcprh-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-215" y="821" as="sourcePoint" />
+            <mxPoint x="-267.2201834862385" y="987" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AeF4XJw-02jc3NNdcprh-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="AeF4XJw-02jc3NNdcprh-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-295" y="743" as="sourcePoint" />
+            <mxPoint x="-215" y="821" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

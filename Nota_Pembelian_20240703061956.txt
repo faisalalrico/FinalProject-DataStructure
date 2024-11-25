@@ -1,0 +1,5 @@
+======================== Nota Pembelian ========================
+ID: 2, smg, .19mm, IMI Micro Uzi - Micro SMG, Rp.600000.0, 2, Total Harga: Rp.1200000.0, Waktu: 2024-07-03 06:19:56
+ID: 2, shotgun, .12cal, Sawn-off - Double Barreled Shotgun, Rp.960000.0, 1, Total Harga: Rp.960000.0, Waktu: 2024-07-03 06:19:56
+===============================================================
+Total Harga Keseluruhan: Rp.2160000.0
